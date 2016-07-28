@@ -3,7 +3,7 @@ This repository contains a simple proof-of-concept of a Reddit API written in C#
 
 # Features
 
-- [x] Get a list if subreddits
+- [x] Get a list of subreddits
 - [x] Retrieve data of a specific subreddit
 - [x] Retrieve data of a specific post
 - [x] Search subreddits
